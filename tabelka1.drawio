@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net" modified="2024-05-27T17:06:37.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TJp_XvYno23LLR5yWtEo" version="24.0.1" type="device">
+  <diagram name="Strona-1" id="m_o6gNSlTmbgL16buBQN">
+    <mxGraphModel dx="1667" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-2" value="System wyświetla okno logowania" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-3" target="WhOYswEk2VGKiLw-ejk7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-3" value="Uczestnik wprowadza swoje dane uwierzytelniające" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-4" target="WhOYswEk2VGKiLw-ejk7-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-4" value="System potwierdza autoryzację uczestnika" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-5" target="WhOYswEk2VGKiLw-ejk7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-5" value="System wprowadza poprawność danych" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-6" target="WhOYswEk2VGKiLw-ejk7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-6" value="Uczestnik zatwierdza wprowadzone dane" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-7" value="&lt;span style=&quot;font-family: &amp;quot;Aptos Narrow&amp;quot;; font-size: 14.6667px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;System prosi o podanie danych uwierzytelniających, jednocześnie dając możliwość założenia konta&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.47;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-2" target="WhOYswEk2VGKiLw-ejk7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-17" value="Uczestnik zostaje zautoryzowany" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-19" target="WhOYswEk2VGKiLw-ejk7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="284.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-21" target="WhOYswEk2VGKiLw-ejk7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-21" target="WhOYswEk2VGKiLw-ejk7-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-21" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="700" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-30" value="Alternatywa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-31" value="Wyjątek" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="700" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.469;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-19" target="WhOYswEk2VGKiLw-ejk7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-43" target="WhOYswEk2VGKiLw-ejk7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-43" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-45" value="Start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="15" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-48" target="WhOYswEk2VGKiLw-ejk7-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-48" value="Uczestnik wybiera opcję &quot;Załóż konto&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-49" target="WhOYswEk2VGKiLw-ejk7-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-49" value="System wyświetla okno rejestracji" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-53" target="WhOYswEk2VGKiLw-ejk7-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-53" value="Uczestnik wprowadza swoje dane" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-55" target="WhOYswEk2VGKiLw-ejk7-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-55" value="Uczestnik zatwierdza wprowadzone dane" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-57" value="System sprawdza poprawność wprowadzonych danych" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-59" value="System poprawnie rejestruje nowego uczestnika" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-61" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="920" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-63" value="FlowEnd" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="915" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-64" target="WhOYswEk2VGKiLw-ejk7-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-20" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-64" value="System wyświetla komunikat o błędzie i prosi o ponowne wprowadzenie danych" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="680" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WhOYswEk2VGKiLw-ejk7-66" target="WhOYswEk2VGKiLw-ejk7-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhOYswEk2VGKiLw-ejk7-66" value="System wyświetla komunikat o błędzie i prosi o poprawienie wprowadzonych danych" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="800" width="125" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
