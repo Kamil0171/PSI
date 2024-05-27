@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net" modified="2024-05-27T17:26:12.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="NwA8MiqcmcVmT7njxt_Q" version="24.4.9" type="device">
+  <diagram name="Strona-1" id="CkN4MlqognYizd6m6BEy">
+    <mxGraphModel dx="1105" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="55o3aQS13WNwDoIhOdxg-1" value="Wybierz turniej eliminacyjny" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-170" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55o3aQS13WNwDoIhOdxg-2" target="55o3aQS13WNwDoIhOdxg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-2" value="System wyświetla listę dostępnych turniejów eliminacyjnych" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-4" value="System wyświetla informację o braku dostępnych turniejów eliminacyjncyh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55o3aQS13WNwDoIhOdxg-5" target="55o3aQS13WNwDoIhOdxg-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-5" value="System wyświetla szczegółowe informację o danym turnieju eliminacyjcnym" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55o3aQS13WNwDoIhOdxg-6" target="55o3aQS13WNwDoIhOdxg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-6" value="Uczestnik wybiera opcję &quot;Zobacz więcej&quot; przy danym turnieju" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="55o3aQS13WNwDoIhOdxg-7" target="55o3aQS13WNwDoIhOdxg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-7" value="Uczestnik przegląda listę dostępnych turniejów eliminacyjnych" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55o3aQS13WNwDoIhOdxg-11" target="55o3aQS13WNwDoIhOdxg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55o3aQS13WNwDoIhOdxg-11" target="55o3aQS13WNwDoIhOdxg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-15" value="Alternatywa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55o3aQS13WNwDoIhOdxg-17" target="55o3aQS13WNwDoIhOdxg-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-17" value="Uczestnik przegląda szczegółowe informację o danym turnieju eliminacyjnym" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55o3aQS13WNwDoIhOdxg-21" target="55o3aQS13WNwDoIhOdxg-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55o3aQS13WNwDoIhOdxg-21" target="55o3aQS13WNwDoIhOdxg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-21" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="590" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="55o3aQS13WNwDoIhOdxg-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454" y="600" as="sourcePoint" />
+            <mxPoint x="414" y="205" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="600" />
+              <mxPoint x="410" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-25" value="Uczestnik wybrał opcję &quot;Powrót, powrót do punktu 2)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55o3aQS13WNwDoIhOdxg-26" target="55o3aQS13WNwDoIhOdxg-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-26" value="Uczestnik wybrał turniej eliminacyjny" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-30" value="Wyjątek" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55o3aQS13WNwDoIhOdxg-34" target="55o3aQS13WNwDoIhOdxg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="235" y="-70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-36" value="Start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="-70" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="235" y="740" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55o3aQS13WNwDoIhOdxg-39" value="End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="740" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
