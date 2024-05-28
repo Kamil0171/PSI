@@ -1,0 +1,231 @@
+<mxfile host="app.diagrams.net" modified="2024-05-28T18:53:48.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="udSxVeTiH-Dw220qMNZe" version="24.4.9" type="device">
+  <diagram name="Strona-1" id="yITaYXSIUjqiB-1GLK6z">
+    <mxGraphModel dx="1702" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="avJssXM4fjSefY4A44pj-1" value="Zarządzanie turniejem eliminacyjnym" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="80" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-2" target="avJssXM4fjSefY4A44pj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-3" value="Start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-4" target="avJssXM4fjSefY4A44pj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-4" value="System wyświetla panel administracyjny" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-5" target="avJssXM4fjSefY4A44pj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-5" value="System wyświetla okno zarządzania turniejami eliminacyjnymi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-6" target="avJssXM4fjSefY4A44pj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-6" value="Członek zarządu wybiera opcję &quot;zarządzanie turniejem eliminacyjnym&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="350" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-9" target="avJssXM4fjSefY4A44pj-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-9" value="Członek wybiera opcję &quot;Edytuj turniej eliminacyjny&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-10" target="avJssXM4fjSefY4A44pj-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-10" value="Członek zarządu wybiera opcję &quot;Utwórz turniej eliminacyjny&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-12" target="avJssXM4fjSefY4A44pj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-12" target="avJssXM4fjSefY4A44pj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-12" target="avJssXM4fjSefY4A44pj-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-15" target="avJssXM4fjSefY4A44pj-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-15" value="Członek zarządu wprowadza wymagane dane" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-16" target="avJssXM4fjSefY4A44pj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-16" value="System wyświetla okno tworzenia turnieju eliminacyjnego" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-19" value="Alternatywa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="538" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-20" target="avJssXM4fjSefY4A44pj-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-20" target="avJssXM4fjSefY4A44pj-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-20" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="920" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-22" target="avJssXM4fjSefY4A44pj-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-22" value="System zapisuje zmiany" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-23" target="avJssXM4fjSefY4A44pj-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-23" value="Członek zarządu zatwierdza zmiany" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-25" target="avJssXM4fjSefY4A44pj-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-25" target="avJssXM4fjSefY4A44pj-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1080" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-27" value="Wyjątek" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="890" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-28" value="Wyjątek" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1050" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-30" target="avJssXM4fjSefY4A44pj-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-30" value="Członek zarządu monitoruje istniejące turnieje" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-31" target="avJssXM4fjSefY4A44pj-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-31" value="System aktualizuje listę turniejów" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-35" target="avJssXM4fjSefY4A44pj-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-35" value="System zwraca błąd zapisu, prosi członka zarządu o ponowienie operacji" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1065" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-36" target="avJssXM4fjSefY4A44pj-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-36" value="Członek zarządu wychodzi z sekcji zarządzania turniejami eliminacyjnymi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="1450" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1550" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-40" value="End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1550" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-43" target="avJssXM4fjSefY4A44pj-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-43" value="System wyświetla formularz z danymi turniejami" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-44" target="avJssXM4fjSefY4A44pj-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-44" value="System zapisuje" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-45" target="avJssXM4fjSefY4A44pj-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-45" value="Członek zarządu anuluje swoje zmiany" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="905" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-50" target="avJssXM4fjSefY4A44pj-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-50" target="avJssXM4fjSefY4A44pj-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-50" target="avJssXM4fjSefY4A44pj-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-50" value="Zatwierdza wprowadzone zmiany" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="845" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-51" target="avJssXM4fjSefY4A44pj-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-51" value="Członek zarządu wprowadza zmiany" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-57" target="avJssXM4fjSefY4A44pj-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-57" value="Członek zarządu wybiera opcję &quot;Usuń turniej eliminacyjny&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-59" target="avJssXM4fjSefY4A44pj-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-59" value="Członek zarządu wybiera opcję &quot;Usuń&quot; przy danym turnieju eliminacyjnym" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-60" target="avJssXM4fjSefY4A44pj-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-60" value="System wyświetli listę dostępnych turniejów" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-62" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="1035" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-64" value="FlowEnd1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1035" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-65" target="avJssXM4fjSefY4A44pj-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-65" value="Członek zarządu wybiera &quot;Potwierdź&quot; lub &quot;Anuluj&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avJssXM4fjSefY4A44pj-66" target="avJssXM4fjSefY4A44pj-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-66" value="System prosi o potwierdzenie operacji" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-70" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="1010" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avJssXM4fjSefY4A44pj-72" value="FlowEnd2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1010" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
