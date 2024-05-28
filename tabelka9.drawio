@@ -1,0 +1,180 @@
+<mxfile host="app.diagrams.net" modified="2024-05-28T19:55:16.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hw2z0zYxuuDnCszQMuOv" version="24.4.9" type="device">
+  <diagram name="Strona-1" id="JdA6m_KE349dQvvtDWIJ">
+    <mxGraphModel dx="1500" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-1" value="Zaksięgować płatność" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="98" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-2" target="fjyIJFy8S1w0gqEZsNdI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-3" value="Start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-4" target="fjyIJFy8S1w0gqEZsNdI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-4" value="System wyświetla panel administracyjny" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-5" target="fjyIJFy8S1w0gqEZsNdI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-5" value="Osoba z sekretariatu wybiera opcję &quot;Płatności&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-6" target="fjyIJFy8S1w0gqEZsNdI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-6" value="System wyświetla okno zarządzania płatnościami" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-10" target="fjyIJFy8S1w0gqEZsNdI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-10" target="fjyIJFy8S1w0gqEZsNdI-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="510" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-12" value="Alternatywa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-13" target="fjyIJFy8S1w0gqEZsNdI-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-13" value="Osoba z sekretariatu wybiera opcję &quot;Zaksięguj płatność&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-15" target="fjyIJFy8S1w0gqEZsNdI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-15" value="System wyświetla okno z listą niezaksięgowanych płatności" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-16" target="fjyIJFy8S1w0gqEZsNdI-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-16" value="System wyświetla okno z daną płatnością" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-17" target="fjyIJFy8S1w0gqEZsNdI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-17" value="Osoba z sekretariatu wybiera daną płatność do zaksięgowania" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-21" target="fjyIJFy8S1w0gqEZsNdI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-21" target="fjyIJFy8S1w0gqEZsNdI-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-21" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="920" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-23" value="Osoba z sekretariatu zaksięgowuje płatność" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-24" target="fjyIJFy8S1w0gqEZsNdI-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-24" target="fjyIJFy8S1w0gqEZsNdI-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-24" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1050" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-26" value="Wyjątek" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="900" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-27" value="Wyjątek" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1030" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-28" target="fjyIJFy8S1w0gqEZsNdI-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-28" value="System zapisuje zmiany" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-30" value="System aktualizuje listę płatności do zaksięgowania" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-31" target="fjyIJFy8S1w0gqEZsNdI-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-31" value="Osoba z sekretariatu wychodzi z sekcji zarządzania płatnościami" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1370" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-35" value="End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1370" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-36" value="System wykrył błąd zapisu, system prosi o ponowienie operacji" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1035" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.386;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-36" target="fjyIJFy8S1w0gqEZsNdI-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="993" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-41" target="fjyIJFy8S1w0gqEZsNdI-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-41" value="Osoba z sekretariatu anuluje operację zaksięgowania płatności, system powraca do ekranu zarządzania płatnościami bez wprowadzonych zmian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="897.5" width="200" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-45" target="fjyIJFy8S1w0gqEZsNdI-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-45" value="Osoba z sekretariatu wybiera opcję &quot;Dokonaj zwrotu&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-47" value="System wyświetla okno z listą płatności do zwrotu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-48" target="fjyIJFy8S1w0gqEZsNdI-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-48" value="Osoba z sekretariatu dokonuje zwrotu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-49" value="System zapisuje zmiany" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-50" target="fjyIJFy8S1w0gqEZsNdI-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fjyIJFy8S1w0gqEZsNdI-51" target="fjyIJFy8S1w0gqEZsNdI-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-51" value="Osoba z sekretariatu wybiera daną płatność" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-57" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="1020" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fjyIJFy8S1w0gqEZsNdI-59" value="FlowEnd1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="1020" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
