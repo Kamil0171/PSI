@@ -1,0 +1,258 @@
+<mxfile host="app.diagrams.net" modified="2024-05-28T19:39:38.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="BpF8gcGqLmjL_lXKAdk_" version="24.4.9" type="device">
+  <diagram name="Strona-1" id="yOwdo9HCcdhz5urNYDvU">
+    <mxGraphModel dx="1551" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-1" value="Zarządzanie zgłoszeniami" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="48" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-2" target="Cuqcrb8-8sTVCQe2fRuE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-3" value="Start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="100" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-4" target="Cuqcrb8-8sTVCQe2fRuE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-4" value="System wyświetla panel administracyjny" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-5" target="Cuqcrb8-8sTVCQe2fRuE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-5" value="Osoba z sekretariatu wybiera opcję &quot;zarządzanie zgłoszeniami&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-6" target="Cuqcrb8-8sTVCQe2fRuE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-6" value="System wyświetla okno z listą zgłoszeń" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-7" target="Cuqcrb8-8sTVCQe2fRuE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-7" value="Osoba z sekretariatu wybiera opcję &quot;Edytuj zgłoszenie&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-8" target="Cuqcrb8-8sTVCQe2fRuE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-8" value="System wyświetla okno zarządzania zgłoszeniami" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-12" target="Cuqcrb8-8sTVCQe2fRuE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-12" target="Cuqcrb8-8sTVCQe2fRuE-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-12" target="Cuqcrb8-8sTVCQe2fRuE-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-14" value="Alternatywa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-16" target="Cuqcrb8-8sTVCQe2fRuE-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-16" value="Osoba z sekretariatu wybiera dane zgłoszenie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-17" target="Cuqcrb8-8sTVCQe2fRuE-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-17" value="Osoba z sekretariatu wprowadza zmiany" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-18" target="Cuqcrb8-8sTVCQe2fRuE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-18" value="System wyświetla okno z zgłoszeniem uczestnika" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-23" target="Cuqcrb8-8sTVCQe2fRuE-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-23" target="Cuqcrb8-8sTVCQe2fRuE-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="960" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-25" value="Wyjątek" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="940" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-26" target="Cuqcrb8-8sTVCQe2fRuE-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-26" value="Osoba z sekretariatu zatwierdza zmiany" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-27" target="Cuqcrb8-8sTVCQe2fRuE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-27" value="System zapisuje zmiany" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-28" target="Cuqcrb8-8sTVCQe2fRuE-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-28" value="System aktualizuje bazę danych zgłoszeń" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-30" target="Cuqcrb8-8sTVCQe2fRuE-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-30" target="Cuqcrb8-8sTVCQe2fRuE-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-30" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-32" value="Wyjątek" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1080" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-35" target="Cuqcrb8-8sTVCQe2fRuE-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-35" value="System wyświetla komunikat o aktualizacji zgłoszenia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-37" target="Cuqcrb8-8sTVCQe2fRuE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-37" value="System wysyła uczestnikowi informację o edycji jego zgłoszenia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-38" target="Cuqcrb8-8sTVCQe2fRuE-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-38" value="Osoba z sekretariatu wychodzi z sekcji &quot;Edytuj zgłoszenie&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-39" target="Cuqcrb8-8sTVCQe2fRuE-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-39" value="System ponownie wyświetla okno z listą zgłoszeń" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1700" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-45" value="End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1700" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-46" target="Cuqcrb8-8sTVCQe2fRuE-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-46" value="System wykrył błąd zapisu, system prosi o ponowienie operacji" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1085" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-50" target="Cuqcrb8-8sTVCQe2fRuE-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-50" value="Osoba z sekretariatu anuluje operację, system powraca do ekranu zarządzania zgłoszeniami bez wprowadzenia zmian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="927.5" width="130" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-53" target="Cuqcrb8-8sTVCQe2fRuE-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-53" value="Osoba z sekretariatu wybiera opcję &quot;Usuń zgłoszenie&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-55" target="Cuqcrb8-8sTVCQe2fRuE-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-55" value="Osoba z sekretariatu usuwa dane zgłoszenie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-56" target="Cuqcrb8-8sTVCQe2fRuE-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-56" value="System wyświetla listę zgłoszeń do usunięcia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-59" target="Cuqcrb8-8sTVCQe2fRuE-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-59" value="System zapisuje zmiany" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-60" target="Cuqcrb8-8sTVCQe2fRuE-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-60" value="System aktualizuje bazę zgłoszeń" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-63" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="870" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-65" value="FlowEnd1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="870" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-66" target="Cuqcrb8-8sTVCQe2fRuE-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-66" value="Osoba z sekretariatu wybiera opcję &quot;Dodaj zgłoszenie&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-68" value="System wyświetla okno z turniejami eliminacyjnymi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-69" target="Cuqcrb8-8sTVCQe2fRuE-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-69" value="System wyświetla formularz" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-70" target="Cuqcrb8-8sTVCQe2fRuE-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-70" value="Osoba z sekretariatu wybiera turniej eliminacyjny" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-73" target="Cuqcrb8-8sTVCQe2fRuE-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-73" value="Osoba z sekretariatu wprowadza dane" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-74" target="Cuqcrb8-8sTVCQe2fRuE-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-74" value="System zapisuje zmiany" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cuqcrb8-8sTVCQe2fRuE-75" target="Cuqcrb8-8sTVCQe2fRuE-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-75" value="Osoba z sekretariatu zatwierdza dane" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-79" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="1055" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cuqcrb8-8sTVCQe2fRuE-81" value="FlowEnd2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="1055" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
